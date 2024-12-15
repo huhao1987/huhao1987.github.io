@@ -14,33 +14,33 @@
 |:---:|:---:|
 | **Modern Android port of SDL (Simple DirectMedia Layer)** | **Unofficial Android port of mGBA emulator** |
 | [![View Project](https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huhao1987/SDL) | [![View Project](https://img.shields.io/badge/View_Project-2196F3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huhao1987/mGBA_Android) |
-| • Kotlin Rewrite<br>• Coroutine Support<br>• Modern Implementation | • Full Emulation<br>• Optimized Performance<br>• Mobile Adaptation |
+| 💻 Kotlin Rewrite<br>🔄 Coroutine Support<br>⚡ Modern Implementation | 🎮 Full Emulation<br>⚡ Optimized Performance<br>📱 Mobile Adaptation |
 
 | NXloaderRB | RMMV Android Deployment |
 |:---:|:---:|
 | **Nintendo Switch Payload Injection Tool** | **RPG Maker MV Android Deployment Library** |
 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huhao1987/NXloaderRB)<br>[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=hh.nxloaderrb) | [![View Project](https://img.shields.io/badge/View_Project-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huhao1987/RMMV-android-deployment) |
-| • Available on Play Store<br>• Free with Minimal Ads | • Easy Deployment<br>• Kotlin Implementation<br>• Performance Optimized |
+| 📱 Available on Play Store<br>💫 Free with Minimal Ads | 🚀 Easy Deployment<br>💻 Kotlin Implementation<br>⚡ Performance Optimized |
 
 ## 🔬 Projects in Development
 
 ### 🎮 jrmxp - RPG Maker XP Extension Project
-> An innovative project based on JRuby and LibGDX, bringing RMXP games to Android
-- JRuby Script Processing
-- LibGDX Graphics Rendering
-- Win32API Simulation
+> 🌟 An innovative project based on JRuby and LibGDX, bringing RMXP games to Android
+- 💎 JRuby Script Processing
+- 🎨 LibGDX Graphics Rendering
+- 🔧 Win32API Simulation
 
 ### 👤 dlibforandroid - Face Detection Library Port
-> Native Android port of the dlib library
-- C/C++ to Java Conversion
-- Performance Optimization
-- Android API Integration
+> 🔍 Native Android port of the dlib library
+- 🔄 C/C++ to Java Conversion
+- ⚡ Performance Optimization
+- 📱 Android API Integration
 
 ### 🎮 rpgmakermvplayer - RPG Maker MV Player
-> Professional RPG Maker MV Game Runtime Environment
-- Custom Save Management
-- Optimized Mobile Experience
-- Extended Feature Support
+> 🎯 Professional RPG Maker MV Game Runtime Environment
+- 💾 Custom Save Management
+- 📱 Optimized Mobile Experience
+- 🔧 Extended Feature Support
 
 ---
 
@@ -48,4 +48,4 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huhao1987)
 
-*Feel free to reach out if you're interested in any projects!*
+*Feel free to reach out if you're interested in any projects!* ✨
