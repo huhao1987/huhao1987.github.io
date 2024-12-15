@@ -1,0 +1,29 @@
+@import "{{ site.theme }}";
+
+.page-header {
+  background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+.main-content {
+  h1, h2, h3, h4, h5, h6 {
+    color: #159957;
+  }
+}
+
+.project-card {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 10px 0;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+table {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+td {
+  background: transparent !important;
+}
