@@ -1,1 +1,5 @@
-theme: jekyll-theme-tactile
+title: Hao's World
+description: Android Developer & Game Porter
+remote_theme: pages-themes/cayman
+plugins:
+- jekyll-remote-theme
